@@ -1,7 +1,7 @@
 # excel_to_jira
 Convert Excel spreadsheet to an Indie JIRA project
 
-User Guide:
+*User Guide:*
 
 User may need to install all dependencies need to run the program in their command prompt: 
 - pip install pandas requests openpyxl
