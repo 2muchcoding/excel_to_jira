@@ -1,5 +1,5 @@
 # excel_to_jira
-Convert Excel spreadsheet to an Indie JIRA project
+### Convert Excel spreadsheet to an Indie JIRA project
 
 **User Guide:**
 
